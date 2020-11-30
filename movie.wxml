@@ -9,6 +9,7 @@
       <text wx:key="index" wx:for="{{item.actors}}">{{item}} </text>
     </view>
     <view>年份: {{item.year}}</view>
+    <view>年份: {{item.year}}</view>
   </view>
   
 </view>
